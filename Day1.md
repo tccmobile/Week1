@@ -1,8 +1,8 @@
-#**Welcome to C++**
+# **Welcome to C++**
 
-##Week 1 Agenda
+## Week 1 Agenda
 
-###Tuesday
+### Tuesday
 
 
 - Roll & Introductions
@@ -12,7 +12,7 @@
 - Homework - setup Replit and GitHub accounts
 - Tour of Zybook - discuss purchasing options
 
-###Thursday
+### Thursday
 
 
 - Roll
